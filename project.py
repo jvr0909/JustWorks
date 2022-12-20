@@ -81,3 +81,6 @@ df
 ## change column order
 df = df[['Customer Id', 'Date', 'MinBalance', 'MaxBalance', 'EndingBalance']]
 displayhook(df)
+
+## output df as csv
+df.to_csv('output.csv')
