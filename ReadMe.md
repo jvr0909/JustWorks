@@ -6,4 +6,4 @@ Or
 
 Run Python file through terminal 
 
-'python3 project.py'
+python3 project.py
